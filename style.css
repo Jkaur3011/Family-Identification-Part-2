@@ -1,0 +1,51 @@
+body{
+    height: 100%;
+    line-height: 1.8;
+    background-color: whitesmoke;
+}
+
+.w3-bar .w3-button {
+    padding: 16px;
+}
+
+.w3-hover-opacity{
+    font-size: 12px;
+}
+.family,
+#object,
+#object_accuracy {
+    color: green;
+    font-family: cursive;
+    font-size: 11px;
+}
+
+#camera {
+    border: 8px solid olive;
+    width: 450px;
+    height: 400px;
+}
+
+#noor{
+    color: red;
+    font-size: 21px;
+}
+
+#papa{
+    color:orangered;
+    font-size: 21px;
+}
+
+#mumma{
+    color:yellow;
+    font-size: 21px;
+}
+
+#manan{
+    color:green;
+    font-size: 21px;
+}
+
+#dadu{
+    color:purple;
+    font-size: 21px;
+}
